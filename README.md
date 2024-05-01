@@ -66,6 +66,8 @@ This tutorial is aimed at novices and beginners who want to learn the first thin
     - [How it works](#how-it-works)
         - [Linux Syscalls](#linux-syscalls)
         - [MacOS Syscalls](#macos-syscalls)
+- [Translations](#translations)
+
 
 ## Introduction
 
@@ -1211,3 +1213,8 @@ Alternatively, you can programatically scan the syscall.h file and generate asse
 
 If the parameters to the OS syscalls somehow change, your program will crash.  It's not likely every syscall is going to have these changes, but you will need to fix your code when this does happen.
 
+# Translations
+
+Please send me the pull request if you'd like to translate this page. I'll list it here.
+
+* [Turkish](https://github.com/mschwartz/assembly-tutorial/blob/main/README_tr.md)
